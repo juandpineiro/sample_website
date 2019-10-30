@@ -4,3 +4,38 @@
   .nav-spacing {
     margin: 0 0 0 10px;
   }
+
+  header {
+    text-align: center; 
+    margin: 0 0 80px;
+  }
+
+  .whale-img {
+    display: block; 
+    margin: 0 auto;
+  }
+
+  .book-report {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px; 
+    background-color: #fafafa;
+  }
+
+  .cover {
+    height: 200px; 
+    float: left; 
+    margin: 0 40px 0 0;
+  }
+
+  .opening-quote {
+    font-style: italic; 
+    font-size: 20px;
+  }
+
+  .opening-line {
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #ff0000;
+  }
