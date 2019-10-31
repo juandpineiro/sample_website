@@ -1,41 +1,46 @@
 .nav-menu {
     text-align: right;
   }
-  .nav-spacing {
-    margin: 0 0 0 10px;
-  }
+ 
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
 
-  header {
-    text-align: center; 
-    margin: 0 0 80px;
-  }
+header {
+  text-align: center; 
+  margin: 0 0 80px;
+}
 
-  .whale-img {
-    display: block; 
-    margin: 0 auto;
-  }
+.image-link {
+  text-decoration: none;
+}
 
-  .book-report {
-    width: 500px; 
-    margin: 20px auto; 
-    padding: 30px; 
-    background-color: #fafafa;
-  }
+.whale-img {
+  display: block; 
+  margin: 0 auto;
+}
 
-  .cover {
-    height: 200px; 
-    float: left; 
-    margin: 0 40px 0 0;
-  }
+.book-report {
+  width: 500px; 
+  margin: 20px auto; 
+  padding: 30px; 
+  background-color: #fafafa;
+}
 
-  .opening-quote {
-    font-style: italic; 
-    font-size: 20px;
-  }
+.cover {
+  height: 200px; 
+  float: left; 
+  margin: 0 40px 0 0;
+}
 
-  .opening-line {
-    font-style: normal; 
-    font-size: 24px; 
-    font-weight: bold; 
-    color: #ff0000;
-  }
+.opening-quote {
+  font-style: italic; 
+  font-size: 20px;
+}
+
+.opening-line {
+  font-style: normal; 
+  font-size: 24px; 
+  font-weight: bold; 
+  color: #ff0000;
+}
